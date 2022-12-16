@@ -13,7 +13,7 @@
 <br>
   
 ## 🔗 Link Surge: 
-  - Acesse Rappi4 [clicando aqui.](https://ragged-yard.surge.sh/)
+<!--   - Acesse Rappi4 [clicando aqui.](https://ragged-yard.surge.sh/) -->
 
 <br>  
   
